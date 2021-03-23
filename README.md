@@ -6,7 +6,7 @@
 
 The Calculator of the damage in Xeroblade2. The types of attack including ultimate attack(Blade Attack), fusion attack(Unite Combo Attack) and chain attack.
 
-The reference is 乐园数据管理室(https://xenoblade2.cn/)
+The reference is 乐园数据管理室(https://xenoblade2.cn/). Thanks a lot for the detailed information about the parameters.
 
 The sample of the automatic battle is shown in below:
 
