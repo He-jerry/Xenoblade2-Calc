@@ -6,6 +6,8 @@
 
 The personal data teaser, attack information in *Xenoblade2*. The types of attack including ultimate attack(Blade Attack), fusion attack(Unite Combo Attack) and chain attack.
 
+The address of the space in BiliBili: https://space.bilibili.com/15330556
+
 The reference is 乐园数据管理室(https://xenoblade2.cn/). Thanks a lot for the detailed information about the parameters.
 
 The sample of the automatic battle is shown in below:
